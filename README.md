@@ -1,4 +1,4 @@
-### Oi! Aceita um a café?, 👋
+### Oi! Aceita um café?, 👋
 Me chamo Gabriel e estudo programação voltado a Backend enquanto faço faculdade de Sistema de Informação. Tenho domínio em montagem e manuntenção de micro e nas horas vagas programo escutando música.
 
 Estou livre para discursões voltadas a programação de java e python. Ideias de projetos, lógica, algoritimos e bate papo via discord.
